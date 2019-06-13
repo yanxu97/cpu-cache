@@ -1,0 +1,11 @@
+module datamux
+(
+	input hit_left,
+	input hit_right,
+	input [255:0] data_in_left,
+	input [255:0] data_in_right,
+	output logic data_out
+);
+
+
+endmodule : datamux

@@ -1,0 +1,11 @@
+module hitcomparator
+(
+	input [23:0] tag_addr,
+	input [23:0] tag_in_left,
+	input [23:0] tag_in_ri,
+	output hit_left,
+	output hit_right
+);
+
+
+endmodule : hitcomparator														

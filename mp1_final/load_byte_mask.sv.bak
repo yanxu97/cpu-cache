@@ -1,0 +1,31 @@
+import rv32i_types::*;
+
+module load_byte_mask #(parameter width = 32)
+(
+	input load_funct3_t ldop, // load operator
+	input [width-1:0] input,
+	output logic [width-1:0] ouput
+);
+//    lb  = 3'b000,     singed byte
+//    lh  = 3'b001,		signed two-byte
+//    lw  = 3'b010,		four byte
+//    lbu = 3'b100,		unsigned byte
+//    lhu = 3'b101,		unsigned two byte
+always_comb
+begin
+	if (ldop == lb)
+		output = {{24{mdrreg_out[7]}}, mdrreg_out[7:0]};
+	else if (ldop == lh)
+		output = {{16{mdrreg_out[15]}}, mdrreg_out[15:0]};
+	else if (ldop == lbu)
+		output = {24'b0, mdrreg_out[7:0]};
+	else if (ldop == lhu)
+		output = {16'b0, mdrreg_out[15:0]}
+	else
+	begin
+		br_en = 0;
+		$display("cmpop wrong");
+	end
+end 
+endmodule : load_byte_mask
+

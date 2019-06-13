@@ -1,0 +1,505 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/yanxu2/ece411/mp0/simulation/modelsim
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 11 rv32i_types 0 22 bHnQd4n4O2lEDPQXOclP32
+DXx4 work 11 alu_sv_unit 0 22 P9fRMmG2mLSLGFdOzG<Z03
+VFhWQodO82z9]K]Ug^`@j:2
+r1
+31
+Iz:n3Lof`PbE`oMPBSBTeB3
+S1
+Z3 d/home/yanxu2/ece411/mp0/simulation/modelsim
+Z4 w1535480599
+Z5 8/home/yanxu2/ece411/mp0/alu.sv
+Z6 F/home/yanxu2/ece411/mp0/alu.sv
+L0 3
+Z7 OV;L;10.1d;51
+Z8 !s108 1536070252.004872
+Z9 !s107 /home/yanxu2/ece411/mp0/alu.sv|
+Z10 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/alu.sv|
+Z11 o-sv -work work -O0
+Z12 !s92 -sv -work work +incdir+/home/yanxu2/ece411/mp0 -O0
+!s85 0
+!i10b 1
+!s100 1`20@?_`6Z`8Y5>gn3P@e1
+!s105 alu_sv_unit
+!s101 -O0
+Xalu_sv_unit
+R1
+R2
+VP9fRMmG2mLSLGFdOzG<Z03
+r1
+31
+IP9fRMmG2mLSLGFdOzG<Z03
+S1
+R3
+R4
+R5
+R6
+L0 1
+R7
+R8
+R9
+R10
+R11
+R12
+!s85 0
+!i10b 1
+!s100 `@KC1@_[]I=ZCSCiZbd]g3
+!i103 1
+!s101 -O0
+vcmp
+R1
+R2
+DXx4 work 11 cmp_sv_unit 0 22 ^^cnM;:cBABXCCT:C4bG41
+VgPk[hWmIMlboPla<^[gdY2
+r1
+31
+IZkIzD:Z<<IYOGC:0obF1N2
+S1
+R3
+Z13 w1536013289
+Z14 8/home/yanxu2/ece411/mp0/cmp.sv
+Z15 F/home/yanxu2/ece411/mp0/cmp.sv
+L0 3
+R7
+Z16 !s108 1536070252.149040
+Z17 !s107 /home/yanxu2/ece411/mp0/cmp.sv|
+Z18 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/cmp.sv|
+R11
+R12
+!s85 0
+!i10b 1
+!s100 BRImZZIPa=1?kLd0CahQj1
+!s105 cmp_sv_unit
+!s101 -O0
+Xcmp_sv_unit
+R1
+R2
+V^^cnM;:cBABXCCT:C4bG41
+r1
+31
+I^^cnM;:cBABXCCT:C4bG41
+S1
+R3
+R13
+R14
+R15
+L0 1
+R7
+R16
+R17
+R18
+R11
+R12
+!s85 0
+!i10b 1
+!s100 :BDVLPem0NoXKW[0^H:R40
+!i103 1
+!s101 -O0
+vcontrol
+R1
+R2
+DXx4 work 15 control_sv_unit 0 22 :LZhaH^9]@[R83An``Kad2
+V<9ooCUo=RZY7@]fWI9:?U2
+r1
+31
+Il[bR^VM7noBKJAFbEea>@2
+S1
+R3
+Z19 w1536007735
+Z20 8/home/yanxu2/ece411/mp0/control.sv
+Z21 F/home/yanxu2/ece411/mp0/control.sv
+L0 3
+R7
+Z22 !s108 1536070251.862875
+Z23 !s107 /home/yanxu2/ece411/mp0/control.sv|
+Z24 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/control.sv|
+R11
+R12
+!s85 0
+!i10b 1
+!s100 =NT7IBUo8Mk;6gbjBR1Tf2
+!s105 control_sv_unit
+!s101 -O0
+Xcontrol_sv_unit
+R1
+R2
+V:LZhaH^9]@[R83An``Kad2
+r1
+31
+I:LZhaH^9]@[R83An``Kad2
+S1
+R3
+R19
+R20
+R21
+L0 1
+R7
+R22
+R23
+R24
+R11
+R12
+!s85 0
+!i10b 1
+!s100 N32N833YT^aDLQGZD?`l60
+!i103 1
+!s101 -O0
+vdatapath
+R1
+R2
+DXx4 work 16 datapath_sv_unit 0 22 7eXC5Nzn3f5Y5J@:Q:ahW0
+Vd<6cUz9MFNhj0NCEX4WG]3
+r1
+31
+I^6SG]12c^KRMhFVZfR4bR2
+S1
+R3
+Z25 w1536002789
+Z26 8/home/yanxu2/ece411/mp0/datapath.sv
+Z27 F/home/yanxu2/ece411/mp0/datapath.sv
+L0 3
+R7
+Z28 !s108 1536070252.277182
+Z29 !s107 /home/yanxu2/ece411/mp0/datapath.sv|
+Z30 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/datapath.sv|
+R11
+R12
+!s85 0
+!i10b 1
+!s100 nl;YKHl7XHle@RbVbDYZK3
+!s105 datapath_sv_unit
+!s101 -O0
+Xdatapath_sv_unit
+R1
+R2
+V7eXC5Nzn3f5Y5J@:Q:ahW0
+r1
+31
+I7eXC5Nzn3f5Y5J@:Q:ahW0
+S1
+R3
+R25
+R26
+R27
+L0 1
+R7
+R28
+R29
+R30
+R11
+R12
+!s85 0
+!i10b 1
+!s100 e;gzO4VmPIT_Zc]<U[;eZ3
+!i103 1
+!s101 -O0
+vir
+R1
+R2
+DXx4 work 10 ir_sv_unit 0 22 LfZ3a[Wl4`cTeN^S=>T[f0
+VX:^eUz7g]T8ooJ<j0>UKo1
+r1
+31
+I`5mZMh:2k8VeP8[C7gdzh0
+S1
+R3
+R4
+Z31 8/home/yanxu2/ece411/mp0/ir.sv
+Z32 F/home/yanxu2/ece411/mp0/ir.sv
+L0 3
+R7
+Z33 !s108 1536070251.738419
+Z34 !s107 /home/yanxu2/ece411/mp0/ir.sv|
+Z35 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/ir.sv|
+R11
+R12
+!s85 0
+!i10b 1
+!s100 li^ggFgVjIRdEMWjQEOai2
+!s105 ir_sv_unit
+!s101 -O0
+Xir_sv_unit
+R1
+R2
+VLfZ3a[Wl4`cTeN^S=>T[f0
+r1
+31
+ILfZ3a[Wl4`cTeN^S=>T[f0
+S1
+R3
+R4
+R31
+R32
+L0 1
+R7
+R33
+R34
+R35
+R11
+R12
+!s85 0
+!i10b 1
+!s100 81>RA=CK9_fSlRGa_T?>f1
+!i103 1
+!s101 -O0
+vmagic_memory
+R1
+I^hJM72SR]B[FDWiXQF@Y>2
+V<]>XDmf]1N=dhFRbi]VD40
+S1
+R3
+R4
+8/home/yanxu2/ece411/mp0/magic_memory.sv
+F/home/yanxu2/ece411/mp0/magic_memory.sv
+L0 4
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 HfL@[dHf8dX71FcU_BJUU1
+!s105 magic_memory_sv_unit
+!s85 0
+!s108 1536070252.547944
+!s107 /home/yanxu2/ece411/mp0/magic_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/magic_memory.sv|
+!s101 -O0
+vmp0
+R1
+R2
+DXx4 work 11 mp0_sv_unit 0 22 c0zV@Ym_GC=EQdXzQ4ND;0
+VU`ElDYl53APk6mk7hR[Jj1
+r1
+31
+IdFl4T]fKIh4i978^=0dX_0
+S1
+R3
+Z36 w1536001973
+Z37 8/home/yanxu2/ece411/mp0/mp0.sv
+Z38 F/home/yanxu2/ece411/mp0/mp0.sv
+L0 3
+R7
+Z39 !s108 1536070252.407817
+Z40 !s107 /home/yanxu2/ece411/mp0/mp0.sv|
+Z41 !s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/mp0.sv|
+R11
+R12
+!s85 0
+!i10b 1
+!s100 U9@]l99RRbC799nE2h8>Y2
+!s105 mp0_sv_unit
+!s101 -O0
+Xmp0_sv_unit
+R1
+R2
+Vc0zV@Ym_GC=EQdXzQ4ND;0
+r1
+31
+Ic0zV@Ym_GC=EQdXzQ4ND;0
+S1
+R3
+R36
+R37
+R38
+L0 1
+R7
+R39
+R40
+R41
+R11
+R12
+!s85 0
+!i10b 1
+!s100 V?M^B2BBgS8gFJB<B5J3G2
+!i103 1
+!s101 -O0
+vmp0_tb
+R1
+!i10b 1
+!s100 fkIdT18I]MO^JUUg`MiKm1
+I;SG4^>4IcBGF9]03=ChPE0
+V7>BAOb1h_]dNe^A1[^Zk32
+!s105 mp0_tb_sv_unit
+S1
+R3
+w1535947137
+8/home/yanxu2/ece411/mp0/mp0_tb.sv
+F/home/yanxu2/ece411/mp0/mp0_tb.sv
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1536070252.638553
+!s107 /home/yanxu2/ece411/mp0/mp0_tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/mp0_tb.sv|
+!s101 -O0
+R11
+R12
+vmux2
+R1
+IhLm[Cm;XQL4Gk06gOcQO@0
+Vm:h1@_?d9XDk^V?Kb1omM1
+S1
+R3
+w1535837411
+8/home/yanxu2/ece411/mp0/mux2.sv
+F/home/yanxu2/ece411/mp0/mux2.sv
+L0 1
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 8@=zoE9g7`dO:kTW:gRze0
+!s105 mux2_sv_unit
+!s85 0
+!s108 1536070251.385834
+!s107 /home/yanxu2/ece411/mp0/mux2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/mux2.sv|
+!s101 -O0
+vmux4
+R1
+IjTl=cd^zLmG^RAj;2<7^a3
+VUaW18l>Tii>0Y18DoZkUg0
+S1
+R3
+w1535944810
+8/home/yanxu2/ece411/mp0/mux4.sv
+F/home/yanxu2/ece411/mp0/mux4.sv
+L0 1
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 XnWU;o4Y[;g5eGPR2lloF2
+!s105 mux4_sv_unit
+!s85 0
+!s108 1536070251.484601
+!s107 /home/yanxu2/ece411/mp0/mux4.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/mux4.sv|
+!s101 -O0
+vpc_plus4
+R1
+Ik@gEGb<I5GAE?QCYFe5X00
+V4X0[U?I1G3X8SCkEiD8BK3
+S1
+R3
+w1535837406
+8/home/yanxu2/ece411/mp0/pc_plus4.sv
+F/home/yanxu2/ece411/mp0/pc_plus4.sv
+L0 1
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 R;@N8j0ckWEc;4gH`A>>a2
+!s105 pc_plus4_sv_unit
+!s85 0
+!s108 1536070251.593431
+!s107 /home/yanxu2/ece411/mp0/pc_plus4.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/pc_plus4.sv|
+!s101 -O0
+vpc_register
+R1
+IHMo<Jm:1c[AEJ>9JWPXTO1
+VklRD>XzTggk8KSC9SP52K1
+S1
+R3
+w1535563406
+8/home/yanxu2/ece411/mp0/pc_reg.sv
+F/home/yanxu2/ece411/mp0/pc_reg.sv
+L0 1
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 na0GIa_AO`1B6LNLO;V]n0
+!s105 pc_reg_sv_unit
+!s85 0
+!s108 1536070250.906828
+!s107 /home/yanxu2/ece411/mp0/pc_reg.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/pc_reg.sv|
+!s101 -O0
+vregfile
+R1
+IhlgYR55L:FcfYZ?NlnK]63
+VGW?iBdZdblFljzF;>DX>>2
+S1
+R3
+R4
+8/home/yanxu2/ece411/mp0/regfile.sv
+F/home/yanxu2/ece411/mp0/regfile.sv
+L0 2
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 HkHLk=TcCRDaV0V?K6aCG0
+!s105 regfile_sv_unit
+!s85 0
+!s108 1536070251.294566
+!s107 /home/yanxu2/ece411/mp0/regfile.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/regfile.sv|
+!s101 -O0
+vregister
+R1
+IaXT9U3i>7^VgX9e@[nP3P2
+VdFa=ka6HO1;nc3L`IjmEK2
+S1
+R3
+R4
+8/home/yanxu2/ece411/mp0/register.sv
+F/home/yanxu2/ece411/mp0/register.sv
+L0 1
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 9EVXmL4QZ>K6^aRfHGI?<0
+!s105 register_sv_unit
+!s85 0
+!s108 1536070251.198692
+!s107 /home/yanxu2/ece411/mp0/register.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/register.sv|
+!s101 -O0
+Xrv32i_types
+R1
+IbHnQd4n4O2lEDPQXOclP32
+VbHnQd4n4O2lEDPQXOclP32
+S1
+R3
+R4
+8/home/yanxu2/ece411/mp0/rv32i_types.sv
+F/home/yanxu2/ece411/mp0/rv32i_types.sv
+L0 1
+R7
+r1
+31
+R11
+R12
+!i10b 1
+!s100 GM2I^KOmS5ATBLEfhY`<Y3
+!s85 0
+!s108 1536070251.084738
+!s107 /home/yanxu2/ece411/mp0/rv32i_types.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+/home/yanxu2/ece411/mp0|/home/yanxu2/ece411/mp0/rv32i_types.sv|
+!s101 -O0

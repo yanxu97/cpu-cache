@@ -1,0 +1,12 @@
+import rv32i_types::*; /* Import types defined in rv32i_types.sv */
+
+module cpu_control
+(
+
+);
+
+
+
+
+
+endmodule : cpu_control

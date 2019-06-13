@@ -1,0 +1,16 @@
+module read_byte_enable
+(
+	input [2:0] funct3,
+	input [6:0] funct7,
+	input [31:0] data_in,
+	output logic [31:0] read_byte_enable_out
+);
+
+always_comb
+begin
+	read_byte_enable_out = data_in;
+	if (funct7)
+	
+end
+
+endmodule : read_byte_enable

@@ -1,0 +1,9 @@
+module cmp
+(
+	input branch_funct3_t cmpop,
+
+);
+
+
+
+endmodule : cmp
